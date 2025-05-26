@@ -42,4 +42,4 @@ def encrypt_by_alphabet(alhpabet, text):
 
 print(encrypt_by_alphabet(data_crypt, input))
 
-print("\n--------------------------\n     MADE BY yngBRANb \n      Никита Карпов\n--------------------------\n")
+print("\n--------------------------\n     GOOOYDA \n      SatoroGoyda\n--------------------------\n")
